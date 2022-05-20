@@ -23,7 +23,7 @@ Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud 책 스터디 ⭐️
 ### ⏰ 스터디 날짜 
 - 스터디 날짜 : 매주 목요일 20시
 - 플랫폼 : 구글미트
-
+- !5.26일 시험기간으로 제외!
 ### Reference
 - 도서정보 - [에이콘출판사 도서정보 페이지](http://www.acornpub.co.kr/book/microservices-spring)
 - 예제 코드 - [PacktPublishing Repo](https://github.com/PacktPublishing/Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud), [에이콘 출판사 Repo](https://github.com/AcornPublishing/microservices-spring)
