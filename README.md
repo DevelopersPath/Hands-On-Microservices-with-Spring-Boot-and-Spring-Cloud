@@ -31,4 +31,4 @@ Hands-On-Microservices-with-Spring-Boot-and-Spring-Cloud 책 스터디 ⭐️
 - [책에서 사용된 Color 이미지 pdf](http://www.acornpub.co.kr/acorn_guest/9781789613476_ColorImages.pdf)
 
 스터디 파이팅!
-중간 참여 희망자 연락 바람
+
